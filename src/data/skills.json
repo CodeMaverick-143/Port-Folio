@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "name": "React.js",
+      "icon": "react",
+      "level": 90,
+      "category": "Frontend"
+    },
+    {
+      "name": "Node.js",
+      "icon": "server",
+      "level": 85,
+      "category": "Backend"
+    },
+    {
+      "name": "Python",
+      "icon": "code",
+      "level": 95,
+      "category": "Languages"
+    },
+    {
+      "name": "TensorFlow",
+      "icon": "brain",
+      "level": 80,
+      "category": "AI/ML"
+    },
+    {
+      "name": "Three.js",
+      "icon": "cube",
+      "level": 75,
+      "category": "3D"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "database",
+      "level": 85,
+      "category": "Database"
+    }
+  ]
+}

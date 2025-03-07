@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI-Powered Code Assistant",
+      "description": "A next-generation code assistant using advanced ML models",
+      "features": [
+        "Real-time code suggestions",
+        "Multi-language support",
+        "Context-aware completions",
+        "Custom model training"
+      ],
+      "link": "https://github.com/CodeMaverick143/ai-code-assistant",
+      "tech": ["Python", "TensorFlow", "React", "Node.js"]
+    },
+    {
+      "id": 2,
+      "title": "Blockchain Explorer",
+      "description": "A modern blockchain explorer with real-time transaction tracking",
+      "features": [
+        "Live transaction monitoring",
+        "Smart contract analysis",
+        "Network statistics",
+        "Interactive visualizations"
+      ],
+      "link": "https://github.com/CodeMaverick143/blockchain-explorer",
+      "tech": ["React", "Web3.js", "Node.js", "MongoDB"]
+    },
+    {
+      "id": 3,
+      "title": "Neural Network Visualizer",
+      "description": "Interactive 3D visualization of neural network architectures",
+      "features": [
+        "3D model rendering",
+        "Layer-by-layer exploration",
+        "Training visualization",
+        "Architecture comparison"
+      ],
+      "link": "https://github.com/CodeMaverick143/nn-visualizer",
+      "tech": ["Three.js", "React", "Python", "TensorFlow"]
+    }
+  ]
+}

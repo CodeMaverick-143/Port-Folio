@@ -7,34 +7,118 @@
       "category": "Frontend"
     },
     {
+      "name": "Next.js",
+      "icon": "nextjs",
+      "level": 85,
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "tailwind",
+      "level": 95,
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "bootstrap",
+      "level": 90,
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML",
+      "icon": "html",
+      "level": 100,
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "icon": "css",
+      "level": 95,
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "javascript",
+      "level": 95,
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "typescript",
+      "level": 85,
+      "category": "Frontend"
+    },
+    {
       "name": "Node.js",
-      "icon": "server",
+      "icon": "nodejs",
       "level": 85,
       "category": "Backend"
     },
     {
+      "name": "Express.js",
+      "icon": "express",
+      "level": 80,
+      "category": "Backend"
+    },
+    {
+      "name": "Django",
+      "icon": "django",
+      "level": 80,
+      "category": "Backend"
+    },
+    {
       "name": "Python",
-      "icon": "code",
+      "icon": "python",
       "level": 95,
       "category": "Languages"
     },
     {
+      "name": "C++",
+      "icon": "cplusplus",
+      "level": 75,
+      "category": "Languages"
+    },
+    {
+      "name": "MySQL",
+      "icon": "mysql",
+      "level": 85,
+      "category": "Database"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "mongodb",
+      "level": 85,
+      "category": "Database"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "postgresql",
+      "level": 80,
+      "category": "Database"
+    },
+    {
       "name": "TensorFlow",
-      "icon": "brain",
+      "icon": "tensorflow",
       "level": 80,
       "category": "AI/ML"
     },
     {
-      "name": "Three.js",
-      "icon": "cube",
+      "name": "Bash",
+      "icon": "bash",
       "level": 75,
-      "category": "3D"
+      "category": "Scripting"
     },
     {
-      "name": "MongoDB",
-      "icon": "database",
+      "name": "Linux",
+      "icon": "linux",
       "level": 85,
-      "category": "Database"
+      "category": "Operating System"
+    },
+    {
+      "name": "Git",
+      "icon": "git",
+      "level": 90,
+      "category": "Version Control"
     }
   ]
 }
